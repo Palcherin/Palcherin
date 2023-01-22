@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Palcherin
-- 👀 I’m interested
 - 🌱 I’m currently learning computer science
+- I am a fron-end developer
 - 💞️ I’m looking to collaborate on different new skills in the coding community
 - 📫 How to reach me? Instagram: @palcherin 17
 
